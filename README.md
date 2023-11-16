@@ -8,3 +8,4 @@
 4. [Crypto Prices Forecasting](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory/data?select=coin_Tether.csv)
 5. 1. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset)
    2. [COVID-19 Vaccination Progress](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
+6. [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris/)
