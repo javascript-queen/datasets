@@ -9,3 +9,4 @@
 5. 1. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset)
    2. [COVID-19 Vaccination Progress](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 6. [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris/)
+7. [S&P 500 Stocks](https://www.kaggle.com/datasets/whenamancodes/sp-500-stocks/)
