@@ -10,3 +10,4 @@
    2. [COVID-19 Vaccination Progress](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress)
 6. [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris/)
 7. [S&P 500 Stocks](https://www.kaggle.com/datasets/whenamancodes/sp-500-stocks/)
+8. [Loans dataset](https://www.youtube.com/watch?v=x2NrPeHSPU0)
