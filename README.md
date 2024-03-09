@@ -13,4 +13,5 @@
 7. [S&P 500 Stocks](https://www.kaggle.com/datasets/whenamancodes/sp-500-stocks/)
 8. [Loans dataset](https://www.youtube.com/watch?v=x2NrPeHSPU0)
 9. [Boston Housing dataset](https://www.kaggle.com/c/boston-housing)
+10. [MIPT Masters Course](https://new.skillfactory.ru/data-science-machine-learning-mipt)skiHW-2(Advanced Math Dataset -- Advertising)
 
