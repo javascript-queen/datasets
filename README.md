@@ -15,4 +15,5 @@
 9. [Boston Housing dataset](https://www.kaggle.com/c/boston-housing)
 10. [MIPT Masters Course](https://new.skillfactory.ru/data-science-machine-learning-mipt) HW-2(Advanced Math Dataset -- Advertising)
 11. [Bitcoin Price Dataset (2017-2023)](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset)
+12. sonnets.txt (for Shakespeare's work generator with RNN)
 
